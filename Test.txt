@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 This is my first Test command
 This is my first Test command
 This is my first Test command
 This is my first Test command
 This is my first Test command
 This is my first Test commandvbXVbbXCVbZXMCmzxcn
+=======
+the new commant
+>>>>>>> f7e3e9d8ef24573cb73d75f035e70346d25c3686
+merging witn the old branch
